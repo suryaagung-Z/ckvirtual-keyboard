@@ -1,0 +1,1 @@
+{"result":{"text":"4 left parenthesis square root of 6 minus 2 square root of 3 plus 2 square root of 2 plus 2 right parenthesis"},"status":"ok"}

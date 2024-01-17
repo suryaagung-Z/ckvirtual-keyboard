@@ -1,0 +1,1 @@
+{"result":{"text":"square root of p squared minus q squared end root"},"status":"ok"}

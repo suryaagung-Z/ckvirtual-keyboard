@@ -1,0 +1,1 @@
+{"result":{"text":"space B e n t u k space s e d e r h a n a space d a r i space fraction numerator 4 square root of 2 space plus 8 over denominator square root of 2 space plus space square root of 3 end fraction space space a d a l a h"},"status":"ok"}

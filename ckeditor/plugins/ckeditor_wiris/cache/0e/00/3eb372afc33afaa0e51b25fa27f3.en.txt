@@ -1,0 +1,1 @@
+{"result":{"text":"square root of q 2 space plus space r 2 end root"},"status":"ok"}
